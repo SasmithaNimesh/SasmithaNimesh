@@ -17,7 +17,7 @@ BSc (Hons) Computer Science With AI Undergraduate · Builder · Lifelong Learner
 
 </div>
 
-$ whoami
+ who am I
 I'm a Computer Science with AI undergraduate at NIBM, Sri Lanka, interested in building useful technology by combining software, intelligent systems, and creative problem-solving.
 - 🧠 Exploring Artificial Intelligence, machine learning, and computer vision
 - 🌐 Building and learning through web applications and full-stack development
