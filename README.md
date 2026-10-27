@@ -30,10 +30,12 @@ Curiosity → Experimentation → Building → Learning → Repeat
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SasmithaNimesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasmithaNimesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-  <br/>
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=SasmithaNimesh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SasmithaNimesh&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub contribution activity graph" />
+  <br/><br/>
+  <a href="https://github.com/SasmithaNimesh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SasmithaNimesh&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
+  </a>
 </div>
 
 
@@ -104,10 +106,13 @@ Curiosity → Experimentation → Building → Learning → Repeat
 🧰 Tech Stack & Tools
 These are technologies represented in my projects and learning interests; my experience level varies by tool.
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,python,r,firebase,arduino,git,github,vscode&perline=8" alt="Technology icons" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,python,r,firebase,arduino,git,github,vscode&perline=8&theme=dark" alt="HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Java, C++, Python, R, Firebase, Arduino, Git, GitHub and VS Code icons" />
+  </a>
 </p>
 
-Areas I'm exploring
+<h3 align="center">🚀 Areas I'm Exploring</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square" alt="Machine Learning" />
