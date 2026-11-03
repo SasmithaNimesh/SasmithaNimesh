@@ -34,11 +34,11 @@ Curiosity → Experimentation → Building → Learning → Repeat
     <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SasmithaNimesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
   </p>
   <p>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=SasmithaNimesh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+    <img src="https://streak-stats.demolab.com/?user=SasmithaNimesh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
   </p>
   <p>
     <a href="https://github.com/SasmithaNimesh">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SasmithaNimesh&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SasmithaNimesh&theme=tokyonight" width="95%" alt="GitHub contribution activity graph" />
     </a>
   </p>
 </div>
