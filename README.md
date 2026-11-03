@@ -26,31 +26,21 @@ I'm a Computer Science with AI undergraduate at NIBM, Sri Lanka, interested in b
 - 🌱 I learn by building projects, testing ideas, and improving through iteration.
 Curiosity → Experimentation → Building → Learning → Repeat
 
-output:
-📈 GitHub Dashboard
-GitHub profile statistics Most used languages
-
-GitHub contribution streak
-
-GitHub contribution activity graph
-
-
-code:
 ## 📈 GitHub Dashboard
 
 <div align="center">
-  <p>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=SasmithaNimesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasmithaNimesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-  </p>
-  <p>
-    <img src="https://streak-stats.demolab.com?user=SasmithaNimesh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-  </p>
-  <p>
-    <a href="https://github.com/SasmithaNimesh">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SasmithaNimesh&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
-    </a>
-  </p>
+  <p>
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SasmithaNimesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SasmithaNimesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  </p>
+  <p>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=SasmithaNimesh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  </p>
+  <p>
+    <a href="https://github.com/SasmithaNimesh">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SasmithaNimesh&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
+    </a>
+  </p>
 </div>
 
 
