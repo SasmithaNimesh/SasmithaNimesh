@@ -1,11 +1,15 @@
 # Hey there, I'm Sasmitha Nimesh 👋
 ### BSc (Hons) Computer Science With AI Undergraduate · Builder · Lifelong Learner
-<p>
-    <a href="https://github.com/SasmithaNimesh">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SasmithaNimesh&theme=tokyonight" width="95%" alt="GitHub contribution activity graph" />
-    </a>
-  </p>
-<p>
+
+🐍 Contribution Trail
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SasmithaNimesh/SasmithaNimesh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SasmithaNimesh/SasmithaNimesh/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake consuming the contribution graph" src="https://raw.githubusercontent.com/SasmithaNimesh/SasmithaNimesh/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
   <a href="https://github.com/SasmithaNimesh">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Building+Web+Applications;Experimenting+with+Robotics+%26+IoT;Turning+ideas+into+working+projects" alt="Typing animation" />
   </a>
@@ -34,6 +38,12 @@ Curiosity → Experimentation → Building → Learning → Repeat
 ## 📈 GitHub Dashboard
 
 <div align="center">
+    <p>
+    <a href="https://github.com/SasmithaNimesh">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SasmithaNimesh&theme=tokyonight" width="95%" alt="GitHub contribution activity graph" />
+    </a>
+  </p>
+<p>
   <p>
     <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SasmithaNimesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
     <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SasmithaNimesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
