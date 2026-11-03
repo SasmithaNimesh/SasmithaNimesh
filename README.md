@@ -1,5 +1,5 @@
-Hey there, I'm Sasmitha Nimesh 👋
-BSc (Hons) Computer Science With AI Undergraduate · Builder · Lifelong Learner
+### Hey there, I'm Sasmitha Nimesh 👋
+# BSc (Hons) Computer Science With AI Undergraduate · Builder · Lifelong Learner
 <p>
   <a href="https://github.com/SasmithaNimesh">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Building+Web+Applications;Experimenting+with+Robotics+%26+IoT;Turning+ideas+into+working+projects" alt="Typing animation" />
