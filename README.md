@@ -5,9 +5,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-    <img alt="3D Isometric Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SasmithaNimesh/SasmithaNimesh/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SasmithaNimesh/SasmithaNimesh/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D Isometric Contribution Graph" src="https://raw.githubusercontent.com/SasmithaNimesh/SasmithaNimesh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
   </picture>
 </div>
 
