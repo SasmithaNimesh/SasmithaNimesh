@@ -57,7 +57,7 @@ I'm a **Computer Science with Artificial Intelligence** undergraduate at the **N
   </p>
 </div>
 
-## 🏙️ 3D Contribution City
+[## 🏙️ 3D Contribution City
 
 <div align="center">
   <picture>
@@ -65,7 +65,7 @@ I'm a **Computer Science with Artificial Intelligence** undergraduate at the **N
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SasmithaNimesh/SasmithaNimesh/main/profile-3d-contrib/profile-green-animate.svg" />
     <img alt="3D Isometric Contribution Graph" src="https://raw.githubusercontent.com/SasmithaNimesh/SasmithaNimesh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
   </picture>
-</div>
+</div>](https://raw.githubusercontent.com/SasmithaNimesh/SasmithaNimesh/output/profile-night-rainbow.svg)
 
 ## 🐍 Contribution Trail
 
