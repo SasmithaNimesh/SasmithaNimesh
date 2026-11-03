@@ -41,11 +41,6 @@ Curiosity → Experimentation → Building → Learning → Repeat
   <p>
     <img src="https://streak-stats.demolab.com/?user=SasmithaNimesh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
   </p>
-  <p>
-    <a href="https://github.com/SasmithaNimesh">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SasmithaNimesh&theme=tokyonight" width="95%" alt="GitHub contribution activity graph" />
-    </a>
-  </p>
 </div>
 
 
