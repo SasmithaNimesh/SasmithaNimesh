@@ -1,6 +1,16 @@
 # Hey there, I'm Sasmitha Nimesh 👋
 ### BSc (Hons) Computer Science With AI Undergraduate · Builder · Lifelong Learner
 
+## 🏙️ 3D Contribution City
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D Isometric Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  </picture>
+</div>
+
 🐍 Contribution Trail
 <div align="center">
   <picture>
